@@ -2,10 +2,17 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.pis</groupId>
+<<<<<<< HEAD
   <artifactId>myjava-web-project</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>myjava-web-project Maven Webapp</name>
+=======
+  <artifactId>myjava-web-project</artifactId>
+  <packaging>war</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>myjava-web-project Maven Webapp</name>
+>>>>>>> d44eadcbf89dd3958e7747d1040eba01f3c4a3d0
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +23,10 @@
     </dependency>
   </dependencies>
   <build>
+<<<<<<< HEAD
     <finalName>java-web-project</finalName>
+=======
+    <finalName>UseAnsiblejava-web-project</finalName>
+>>>>>>> d44eadcbf89dd3958e7747d1040eba01f3c4a3d0
   </build>
 </project>
